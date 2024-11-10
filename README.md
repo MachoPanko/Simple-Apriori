@@ -3,7 +3,8 @@ A simple Apriori coded from scratch.
 Runnable for CSV files.
 
 ## How to use?
-apriori-tao is script for running apriori on a csv file
+apriori-tao is script for running apriori on a csv file.
+
 apriori-correct is the script used to call library version of apriori (taken as ground truth)
 
 You can run your csv file on both to verify the results are the same.
